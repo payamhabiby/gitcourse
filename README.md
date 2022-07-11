@@ -8,3 +8,5 @@ new paragraph
 ## Another section
 
 This section is important
+
+new line added
