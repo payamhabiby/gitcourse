@@ -4,3 +4,7 @@ some text
 another line
 
 new paragraph
+
+## Another section
+
+This section is important
